@@ -12,6 +12,6 @@
 
 ### Here is a list of my repositories:
 
-#### - [WiFi IoT Project](https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)
-#### - [Project 2](https://github.com/YourUsername/Project2)
+#### - [WiFi IoT Project - Year 2](https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)
+#### - [Expo Chat App (Java Hibernate) - Year 2](https://github.com/adreysanjunadel/year2_expo_hibernate_chatapp)
 #### - [Project 3](https://github.com/YourUsername/Project3)
