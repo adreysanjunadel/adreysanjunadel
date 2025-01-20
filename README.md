@@ -14,4 +14,5 @@
 
 ##### - [WiFi IoT Expo 📱 Project (Java Hibernate) - Year 2](https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)
 ##### - [Expo 📱 Chat App (Java Hibernate) - Year 2](https://github.com/adreysanjunadel/year2_expo_hibernate_chatapp)
-##### - [Java eCommerce 🛍️ Web App (Hibernate) - YEar](https://github.com/adreysanjunadel/year2_java_web_hibernate_music_shop)
+##### - [Java eCommerce 🛍️ Web App (Hibernate) - Year 2](https://github.com/adreysanjunadel/year2_java_web_hibernate_music_shop)
+##### - [PHP eCommerce 🛍️ Web App - Year 1](https://github.com/adreysanjunadel/year1_php_hotel_web_project)
