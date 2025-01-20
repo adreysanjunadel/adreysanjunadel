@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Private Repositories
+
+Here is a list of my private repositories:
+
+- [Project 1][(https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)]
+- [Project 2](https://github.com/YourUsername/Project2)
+- [Project 3](https://github.com/YourUsername/Project3)
+
+And so on...
