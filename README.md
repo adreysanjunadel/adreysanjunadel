@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java
 - 📫 How to reach me: My Instagram
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I was about to leave this field just before I fell in love with coding.
 
 # My Repositories
 
