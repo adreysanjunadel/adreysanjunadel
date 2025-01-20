@@ -1,21 +1,16 @@
 ## Hi there 👋
 
-<!--
-**adreysanjunadel/adreysanjunadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Java Projects
-- 🌱 I’m currently learning Java, Android, IoT solutions
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Java
-- 📫 How to reach me: My Instagram
-- ⚡ Fun fact: I was about to leave this field just before I fell in love with coding.
+### 🔭 I’m currently working on Java Projects
+### 🌱 I’m currently learning Java, Android, IoT solutions
+### 👯 I’m looking to collaborate on Java Projects, IoT solutions and Libraries
+### 🤔 I’m looking for help with ...
+### 💬 Ask me about Java
+### 📫 How to reach me: My Instagram
+### ⚡ Fun fact: I was about to leave this field just before I fell in love with coding.
 
 # My Repositories
 
-Here is a list of my repositories:
+## Here is a list of my repositories:
 
 - [Project 1][(https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)]
 - [Project 2](https://github.com/YourUsername/Project2)
