@@ -12,7 +12,7 @@
 
 ## Here is a list of my repositories:
 
-- [Project 1][(https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)]
+- [WiFi IoT Project](https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)
 - [Project 2](https://github.com/YourUsername/Project2)
 - [Project 3](https://github.com/YourUsername/Project3)
 
