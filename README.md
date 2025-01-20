@@ -20,6 +20,6 @@
 
 ## 📫 How to reach me: 
 
-###### - [Email 📧](sanjunadelpitiya1@gmail.com)
+###### - Email 📧 - sanjunadelpitiya1@gmail.com
 ###### - [My Instagram 📷](https://www.instagram.com/adr.sanjuna.del38/)
 ###### - [My Facebook 📔](https://www.facebook.com/share/1QeBDeA3Yx/)
