@@ -24,3 +24,4 @@
 ###### - Email 📧 - sanjunadelpitiya1@gmail.com
 ###### - [My Instagram 📷](https://www.instagram.com/adr.sanjuna.del38/)
 ###### - [My Facebook 📔](https://www.facebook.com/share/1QeBDeA3Yx/)
+###### - [My LinkedIn 🔗](www.linkedin.com/in/sanjuna-delpitiya-40b5202a1)
