@@ -11,13 +11,13 @@
 
 ### Here is a list of my repositories:
 
-##### - [WiFi IoT Expo 📱 Project (Java Hibernate) - Year 2](https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)
-##### - [Expo 📱 Chat App (Java Hibernate) - Year 2](https://github.com/adreysanjunadel/year2_expo_hibernate_chatapp)
-##### - [Java eCommerce 🛍️ Web App (Hibernate) - Year 2](https://github.com/adreysanjunadel/year2_java_web_hibernate_music_shop)
-##### - [Java SE 🖥️ Library Management System - Year 1 (Group Project)](https://github.com/adreysanjunadel/year1_java_se_library_sys)
-##### - [PHP eCommerce 🛍️ Web App - Year 1](https://github.com/adreysanjunadel/year1_php_hotel_web_project)
-##### - [Java SE 🖥️ LMS - Year 1](https://github.com/adreysanjunadel/year1_java_se_student_lms)
-##### - [Java SE 🖥️ Calculator - Year 1](https://github.com/adreysanjunadel/year1_java_se_calculator)
+##### - [WiFi IoT Expo 📱 Project (Java Hibernate) - HNDip.](https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)
+##### - [Expo 📱 Chat App (Java Hibernate) - HNDip.](https://github.com/adreysanjunadel/year2_expo_hibernate_chatapp)
+##### - [Java eCommerce 🛍️ Web App (Hibernate) - HNDip.](https://github.com/adreysanjunadel/year2_java_web_hibernate_music_shop)
+##### - [Java SE 🖥️ Library Management System - Dip. (Group Project)](https://github.com/adreysanjunadel/year1_java_se_library_sys)
+##### - [PHP eCommerce 🛍️ Web App - Dip. ](https://github.com/adreysanjunadel/year1_php_hotel_web_project)
+##### - [Java SE 🖥️ LMS - Dip. ](https://github.com/adreysanjunadel/year1_java_se_student_lms)
+##### - [Java SE 🖥️ Calculator - Dip. ](https://github.com/adreysanjunadel/year1_java_se_calculator)
 
 ## 📫 How to reach me: 
 
