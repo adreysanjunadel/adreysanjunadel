@@ -1,7 +1,7 @@
 # Hi there fellow developer! 👋
 
-###### 🔭 I’m currently pursuing my 4th year in BSc. Software Engineering, on the lookout for Java Projects
-###### 🌱 I’m currently learning Java, Android, IoT solutions
+###### 🔭 I’ve completed my BSc. Software Engineering, and I'm on the lookout for Java Projects
+###### 🌱 I’m currently learning Java, PHP, Android, IoT solutions
 ###### 👯 I’m looking to collaborate on Java Projects, IoT solutions and Library Development
 ###### 🤔 I’m looking for help with Java and IoT solutions
 ###### 💬 Ask me about Java
