@@ -1,9 +1,9 @@
 # Hi there fellow developer! 👋
 
-##### 🔭 I’ve completed my BSc. Software Engineering, and I'm on the lookout for Java Projects
-##### 🌱 I’m currently learning Java, PHP, Android, IoT solutions
-##### 🤔 I’m looking to help with Java, PHP, React Native, JS, TS and IoT solutions
-##### 💬 Feel free to contact me for collaborations on Java (Web, Standalone, J2EE/Spring Boot Architectures), Android, PHP, TS, JS & Arduino
+#### 🔭 I’ve completed my BSc. Software Engineering, and I'm on the lookout for Java Projects
+#### 🌱 I’m currently learning Java, PHP, Android, IoT solutions
+#### 🤔 I’m looking to help with Java, PHP, React Native, JS, TS and IoT solutions
+#### 💬 Feel free to contact me for collaborations on Java (Web, Standalone, J2EE/Spring Boot Architectures), Android, PHP, TS, JS & Arduino
 
 ## My Repositories
 
@@ -19,7 +19,7 @@
 
 ## 📫 How to reach me: 
 
-##### - Email 📧 - sanjunadelpitiya1@gmail.com
-##### - [My Instagram 📷](https://www.instagram.com/adr.sanjuna.del38/)
-##### - [My Facebook 📔](https://www.facebook.com/share/1QeBDeA3Yx/)
-##### - [My LinkedIn 🔗](www.linkedin.com/in/sanjuna-delpitiya-40b5202a1)
+#### - Email 📧 - sanjunadelpitiya1@gmail.com
+#### - [My Instagram 📷](https://www.instagram.com/adr.sanjuna.del38/)
+#### - [My Facebook 📔](https://www.facebook.com/share/1QeBDeA3Yx/)
+#### - [My LinkedIn 🔗](www.linkedin.com/in/sanjuna-delpitiya-40b5202a1)
