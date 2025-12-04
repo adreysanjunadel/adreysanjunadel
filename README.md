@@ -4,8 +4,7 @@
 ###### 🌱 I’m currently learning Java, PHP, Android, IoT solutions
 ###### 👯 I’m looking to collaborate on Java Projects, IoT solutions and Library Development
 ###### 🤔 I’m looking for help with Java and IoT solutions
-###### 💬 Ask me about Java
-###### ⚡ Fun fact: I was about to quit Software Engineering just before I fell in love with coding.
+###### 💬 Feel free to contact me for collaborations on Java (Web, Standalone, J2EE/Spring Boot Architectures), Android, PHP, TS, JS & Arduino
 
 ## My Repositories
 
