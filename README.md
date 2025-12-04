@@ -7,7 +7,7 @@
 
 ## My Repositories
 
-### Here is a list of my repositories:
+### Here is a list of my college projects/repositories:
 
 #### - [WiFi IoT Expo 📱 Project (Java Hibernate) - HNDip.](https://github.com/adreysanjunadel/year2_expo_wifi_iot_project)
 #### - [Expo 📱 Chat App (Java Hibernate) - HNDip.](https://github.com/adreysanjunadel/year2_expo_hibernate_chatapp)
