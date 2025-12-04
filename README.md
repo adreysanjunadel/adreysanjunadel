@@ -1,4 +1,4 @@
-# Hi there fellow developer! 👋
+# Hi! Fellow Coding Enthusiast, Welcome to my ReadMe! 👋
 
 #### 🔭 I’ve completed my BSc. Software Engineering, and I'm on the lookout for Java Projects
 #### 🌱 I’m currently learning Java, PHP, Android, IoT solutions
