@@ -1,6 +1,6 @@
 # Hi! Fellow Coding Enthusiast, Welcome to my ReadMe! 👋
 
-#### 🔭 I’ve completed my BSc. Software Engineering, and I'm on the lookout for Java (Web, Standalone, J2EE and Android) , PHP, React Native, JS, TS and IoT Projects
+#### 🔭 I’ve completed my BSc. Software Engineering, and I'm on the lookout for Java (Web, Standalone, J2EE and Android) , PHP, React Native, JS, TS (Angular) and IoT Projects
 #### 🌱 I’m currently learning Angular and more TS
 #### 🤔 I’m looking for help in learning .NET, C# (areas where it differs from Java), .NET/(ASP.NET)
 #### 💬 Feel free to contact me for collaborations on Java (Web, Standalone, J2EE/Spring Boot Architectures), Android, PHP, TS, JS & Arduino projects
