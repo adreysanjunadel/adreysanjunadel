@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0891B2&height=260&section=header&text=ADRIEN%20SANJUNA&fontSize=58&fontColor=F8FAFC&fontAlignY=36&desc=Software%20Engineer%20%7C%20Applied%20AI%20%26%20Automation&descSize=19&descAlignY=58&animation=fadeIn" alt="Adrien Sanjuna | Software Engineer, Applied AI and Automation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0891B2&height=220&section=header&text=ADRIEN%20SANJUNA&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer%20%7C%20Applied%20AI%20%26%20Automation&descSize=17&descAlignY=59&animation=fadeIn" alt="Adrien Sanjuna | Software Engineer, Applied AI and Automation" />
 
 <a href="https://github.com/adreysanjunadel"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=Building+practical+software.;Automating+complex+workflows.;Exploring+intelligent+systems.;Java+EE+%7C+Laravel+%7C+Python+%7C+Expo+%7C+Arduino" alt="Typing animation" /></a>
 
 <p>
-<img src="https://img.shields.io/badge/BSc-Software_Engineering-1E3A8A?style=for-the-badge" alt="BSc Software Engineering" />
-<img src="https://img.shields.io/badge/Based_in-Sri_Lanka-0891B2?style=for-the-badge" alt="Based in Sri Lanka" />
-<img src="https://img.shields.io/badge/Focus-Backend_|_AI_|_Automation-2563EB?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/BSc-Software%20Engineering-0F172A?style=for-the-badge&labelColor=1E293B" alt="BSc Software Engineering" />
+<img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-0891B2?style=for-the-badge&labelColor=1E293B" alt="Based in Sri Lanka" />
+<img src="https://img.shields.io/badge/Focus-Backend%20%7C%20AI%20%7C%20Automation-2563EB?style=for-the-badge&labelColor=1E293B" alt="Focus" />
 </p>
 
 <p>
 <a href="https://www.linkedin.com/in/sanjuna-delpitiya-40b5202a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sanjunadelpitiya1@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/adreysanjunadel?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_repos-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/adreysanjunadel?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20repos-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=adreysanjunadel&label=Profile+views&color=0891B2&style=flat-square" alt="Profile views" />
 </p>
 
@@ -277,7 +277,7 @@ I'm interested in conversations and collaborations around **backend development,
 <p>
 <a href="mailto:sanjunadelpitiya1@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 <a href="https://www.linkedin.com/in/sanjuna-delpitiya-40b5202a1/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/adreysanjunadel?tab=repositories"><img src="https://img.shields.io/badge/Browse_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/adreysanjunadel?tab=repositories"><img src="https://img.shields.io/badge/Browse%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
 <p>
